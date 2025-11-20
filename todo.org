@@ -1,0 +1,11 @@
+#+title: Todo
+
+* Section 1
+
+* Section 2
+
+** Good Practices :Joe:
+
+** Bad Practices :Kevin:
+
+* Section 3
